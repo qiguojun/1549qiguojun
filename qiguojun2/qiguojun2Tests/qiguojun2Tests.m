@@ -1,6 +1,6 @@
 //
-//  Demo1549Tests.m
-//  Demo1549Tests
+//  qiguojun2Tests.m
+//  qiguojun2Tests
 //
 //  Created by qianfeng on 15/11/23.
 //  Copyright (c) 2015年 祁国军. All rights reserved.
@@ -9,11 +9,11 @@
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-@interface Demo1549Tests : XCTestCase
+@interface qiguojun2Tests : XCTestCase
 
 @end
 
-@implementation Demo1549Tests
+@implementation qiguojun2Tests
 
 - (void)setUp {
     [super setUp];

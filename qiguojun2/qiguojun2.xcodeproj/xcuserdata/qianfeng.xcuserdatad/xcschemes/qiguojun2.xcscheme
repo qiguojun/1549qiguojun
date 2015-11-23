@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "BCBE43F01C02EA0500489857"
-               BuildableName = "Demo1549.app"
-               BlueprintName = "Demo1549"
-               ReferencedContainer = "container:Demo1549.xcodeproj">
+               BlueprintIdentifier = "BCBE44541C02EEB300489857"
+               BuildableName = "qiguojun2.app"
+               BlueprintName = "qiguojun2"
+               ReferencedContainer = "container:qiguojun2.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "BCBE44091C02EA0600489857"
-               BuildableName = "Demo1549Tests.xctest"
-               BlueprintName = "Demo1549Tests"
-               ReferencedContainer = "container:Demo1549.xcodeproj">
+               BlueprintIdentifier = "BCBE446D1C02EEB300489857"
+               BuildableName = "qiguojun2Tests.xctest"
+               BlueprintName = "qiguojun2Tests"
+               ReferencedContainer = "container:qiguojun2.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "BCBE44091C02EA0600489857"
-               BuildableName = "Demo1549Tests.xctest"
-               BlueprintName = "Demo1549Tests"
-               ReferencedContainer = "container:Demo1549.xcodeproj">
+               BlueprintIdentifier = "BCBE446D1C02EEB300489857"
+               BuildableName = "qiguojun2Tests.xctest"
+               BlueprintName = "qiguojun2Tests"
+               ReferencedContainer = "container:qiguojun2.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BCBE43F01C02EA0500489857"
-            BuildableName = "Demo1549.app"
-            BlueprintName = "Demo1549"
-            ReferencedContainer = "container:Demo1549.xcodeproj">
+            BlueprintIdentifier = "BCBE44541C02EEB300489857"
+            BuildableName = "qiguojun2.app"
+            BlueprintName = "qiguojun2"
+            ReferencedContainer = "container:qiguojun2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -76,10 +76,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BCBE43F01C02EA0500489857"
-            BuildableName = "Demo1549.app"
-            BlueprintName = "Demo1549"
-            ReferencedContainer = "container:Demo1549.xcodeproj">
+            BlueprintIdentifier = "BCBE44541C02EEB300489857"
+            BuildableName = "qiguojun2.app"
+            BlueprintName = "qiguojun2"
+            ReferencedContainer = "container:qiguojun2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,10 +95,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BCBE43F01C02EA0500489857"
-            BuildableName = "Demo1549.app"
-            BlueprintName = "Demo1549"
-            ReferencedContainer = "container:Demo1549.xcodeproj">
+            BlueprintIdentifier = "BCBE44541C02EEB300489857"
+            BuildableName = "qiguojun2.app"
+            BlueprintName = "qiguojun2"
+            ReferencedContainer = "container:qiguojun2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

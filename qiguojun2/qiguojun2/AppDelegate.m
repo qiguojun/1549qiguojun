@@ -1,6 +1,6 @@
 //
 //  AppDelegate.m
-//  Demo1549
+//  qiguojun2
 //
 //  Created by qianfeng on 15/11/23.
 //  Copyright (c) 2015年 祁国军. All rights reserved.
@@ -13,8 +13,6 @@
 @end
 
 @implementation AppDelegate
-
-
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
